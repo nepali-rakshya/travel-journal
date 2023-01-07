@@ -9,4 +9,16 @@
 
 .navbar {
   background: #f55a5a;
+  margin-bottom: 1.5em;
 }
+
+.content__space {
+  max-width: 1130px;
+  margin: 0 auto;
+}
+
+.content__border {
+  margin: 1em;
+}
+
+/* margin: 0 2.5em; */
