@@ -1,0 +1,10 @@
+.nav__content {
+  width: fit-content;
+  margin: 0 auto;
+  padding: 1em;
+  color: white;
+  display: flex;
+  gap: 7px;
+  letter-spacing: -1px;
+  font-weight: 500;
+}
