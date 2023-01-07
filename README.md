@@ -1,4 +1,4 @@
-"Travel Journal" is a static website built uinsg HTML, CSS, JavaScript and ReactJS
+"Travel Journal" is a fully responsive static website built uinsg HTML, CSS, JavaScript and ReactJS
 
 <br />
 <br />
