@@ -1,4 +1,4 @@
-import earth from "/image/earth.png";
+import earth from "/images/earth.png";
 
 const Nav = () => {
   return (
